@@ -6,7 +6,7 @@ A modern and interactive **Friendship Day Website** built using **HTML5, CSS3, a
 
 ## 🌐 Live Demo
 
-🔗 **Website:** https://your-live-demo-link.com
+🔗 **Website:** [https://your-live-demo-link.com](https://happy-friend-ship-day-4um5.vercel.app/)
 
 > **Note:** Replace the above URL with your deployed website link (GitHub Pages, Netlify, or Vercel).
 
@@ -102,7 +102,7 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Your Name**
+Naveen Kumar Ventrapati
 
 * GitHub: https://github.com/Naveen221411
 * Live Demo: https://your-live-demo-link.com
